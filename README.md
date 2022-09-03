@@ -1,4 +1,4 @@
-# Interior Design Page - [LINK](interior10-design-page.netlify.app)
+# Interior Design Page - [LINK](https://interior10-design-page.netlify.app)
 ![Ineuron & LCO](https://img.shields.io/badge/Ineuron-LCO-brightgreen) 
 ![Ineuron & LCO](https://img.shields.io/badge/Hitesh%20Choudhary-Full--stack--JS--bootcamp-brightgreen)
 <br>
